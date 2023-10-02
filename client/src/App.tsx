@@ -22,7 +22,7 @@ function App() {
       <header>
         <Navbar expand="lg">
           <Container>
-            <Navbar.Brand>Amazonas</Navbar.Brand>
+            <Navbar.Brand>tsamazona</Navbar.Brand>
           </Container>
           <Nav>
             <Button variant={mode} onClick={switchModeHandler}>
